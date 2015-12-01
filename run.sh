@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath "resources/json-20140107.jar:out/production/simple" com.company.Main

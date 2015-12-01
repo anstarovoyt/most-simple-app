@@ -1,0 +1,1 @@
+javac -classpath "resources/json-20140107.jar" -d "./out/production/simple" "src/com/company/Main.java"
